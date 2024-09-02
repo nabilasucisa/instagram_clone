@@ -28,5 +28,5 @@ This project is a clone of Instagram, developed as part of my IT bootcamp challe
 
 ---
 
-Or you can watch the demo video on this link :
+Or you can watch the demo video through this link :
 https://drive.google.com/file/d/1wOr9s5ttwrHvcas69Ff8DlNl3nITBdw2/view?usp=drivesdk
